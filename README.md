@@ -52,8 +52,13 @@ Refer to [Prometheus documenatation](https://prometheus.io/docs/introduction/ove
 # Screen shots
 
 ### spring app
-![hello](cars-list.png)
+![/count](count.png)
+![/hello](grafana.png)
+![/prometheus](grafana1.png)
 
+### metrics
+![hello](grafana2.png)
+![hello](grafana3.png)
 
 
 # Spring boot web application's API
